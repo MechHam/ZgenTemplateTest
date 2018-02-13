@@ -1,0 +1,7 @@
+[remote "origin"]
+	url = https://github.com/mechkourEID/ZgenTemplateTest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[fsck]
+	missingEmail = ignore
+[remote "test"]
+	url = file:///C:/Users/MECHKOHA/Desktop/githubTest/
