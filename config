@@ -5,3 +5,8 @@
 	missingEmail = ignore
 [remote "test"]
 	url = file:///C:/Users/MECHKOHA/Desktop/githubTest/
+	url = https://github.com/mechkourEID/ZgenTemplateTest.git
+[fsck]
+	missingEmail = ignore
+[fsck ""]
+	missingEmail = ignore
