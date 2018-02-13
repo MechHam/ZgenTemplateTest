@@ -8,5 +8,7 @@
 	url = https://github.com/mechkourEID/ZgenTemplateTest.git
 [fsck]
 	missingEmail = ignore
+[fsck]
+	missingEmail = ignore
 [fsck ""]
 	missingEmail = ignore
